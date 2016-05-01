@@ -260,7 +260,7 @@ public class BBSDocAction implements IDocAction {
 			s = e + 1;
 			
 			if (c.length() != 0) {
-				if (c.startsWith("https://bbs.fudan")) {
+				if (c.startsWith("https://bbs.fudan") || c.startsWith("http://bbs.fudan")) {
 					if (sb.length() != 0) {
 						System.out.print("醒目"+sb.length()+"：");
 						System.out.println(sb);

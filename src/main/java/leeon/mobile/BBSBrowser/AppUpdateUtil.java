@@ -18,13 +18,13 @@ public class AppUpdateUtil {
 	public static final String APP_NAME = "bbsbrowser.apk";
 	
 	//自动更新下载的app version 文件
-	public static final String APP_VERSION_FILE = "release_note.txt";
+	public static final String APP_VERSION_FILE = "version.txt";
 	
 	//SVN路径
-	public static final String APP_SVN_URL = "http://brick-leeon.googlecode.com/svn/trunk/bbsbrowser/bbsbrowser_android/";
-		
+	public static final String APP_SVN_URL = "https://raw.githubusercontent.com/gmud/bbsbrowser_android/master/build/outputs/";
+
 	//自动更新的url路径
-	public static final String APP_UPDATE_URL = APP_SVN_URL + "release/";
+	public static final String APP_UPDATE_URL = APP_SVN_URL + "apk/";
 	
 	//帮助路劲
 	public static final String APP_HELP_URL = APP_UPDATE_URL + "help/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.mht";
@@ -36,7 +36,7 @@ public class AppUpdateUtil {
 	public static final String APP_UPDATE_VERSION_FILE_URL = APP_UPDATE_URL + APP_VERSION_FILE;
 		
 	//自动更新本地保存目录
-	public static String APP_LOCAL_URL =  Environment.getExternalStorageDirectory() + "/" + APP_NAME;
+	public static String APP_LOCAL_URL =  Environment.getExternalStorageDirectory() + "/Downloads" + APP_NAME;
 
 	//最新的app version 及 发布信息
 	//自动更新下载的app version 用于比较

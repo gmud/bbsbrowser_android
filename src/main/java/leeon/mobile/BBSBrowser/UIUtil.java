@@ -64,7 +64,7 @@ public class UIUtil {
 	/**
 	 * 解析content的正则表达式
 	 */
-	public static final String IMG_URL_PATTERN = "https://[\\w\\p{Punct}=~]+";
+	public static final String IMG_URL_PATTERN = "http://[\\w\\p{Punct}=~]+";
 	public static final String IMG_ANSI_PATTERN = ">1b\\[[\\d;]*[a-zA-Z]";
 	
 	

@@ -12,16 +12,16 @@
         "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/welcome_selector1.xml"
     },
     {
-        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/filesave.png",
-        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/filesave.png"
-    },
-    {
         "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/repost_othervideo.png",
         "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/repost_othervideo.png"
     },
     {
         "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/weibo_divider.xml",
         "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/weibo_divider.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/filesave.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/filesave.png"
     },
     {
         "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/mail_send.png",
