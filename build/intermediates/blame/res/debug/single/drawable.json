@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/kaixin_divider.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/kaixin_divider.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/content_con_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/content_con_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/welcome_selector1.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/welcome_selector1.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/filesave.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/filesave.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/repost_othervideo.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/repost_othervideo.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/weibo_divider.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/weibo_divider.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/mail_send.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/mail_send.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/repost_repastedefault.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/repost_repastedefault.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/kaixin_title.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/kaixin_title.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/bbs_title.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/bbs_title.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/other_icon.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/other_icon.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/content_title_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/content_title_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/folder.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/folder.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/kpaint.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/kpaint.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/board_master_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/board_master_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/mail_new.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/mail_new.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/kaixin_selector1.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/kaixin_selector1.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/filenew.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/filenew.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/services.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/services.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/sinaicon.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/sinaicon.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/block.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/block.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/top10_author_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/top10_author_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/weibo_selector1.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/weibo_selector1.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/recommend_indicator_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/recommend_indicator_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/sinaweibo_title.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/sinaweibo_title.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/board_name_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/board_name_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/ksmiletris.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/ksmiletris.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/linedotl.gif",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/linedotl.gif"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/doc_author_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/doc_author_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/mail_replay.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/mail_replay.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/folder_open.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/folder_open.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/sjtu_logo.jpg",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/sjtu_logo.jpg"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/ktip.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/ktip.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/kaixin_selector2.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/kaixin_selector2.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/down.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/launch.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/launch.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/mail_replyall.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/mail_replyall.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/repost_diary.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/repost_diary.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/krita.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/krita.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/weibo_selector2.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/weibo_selector2.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/mail_generic.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/mail_generic.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/banner.jpg",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/banner.jpg"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/proxy.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/proxy.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/doc_title_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/doc_title_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/thumbnail.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/thumbnail.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/kaixin_icon.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/kaixin_icon.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/welcome_selector2.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/welcome_selector2.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/top10_title_selector.xml",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/top10_title_selector.xml"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/forward.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/forward.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/mail_forward.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/mail_forward.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/heart.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/heart.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/ksnapshot.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/ksnapshot.png"
+    },
+    {
+        "merged": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/build/intermediates/res/merged/debug/drawable/redo.png",
+        "source": "/Users/xinhwang/StudioProjects/bbsbrowser_android/app/src/main/res/drawable/redo.png"
+    }
+]

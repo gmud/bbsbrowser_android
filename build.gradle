@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 5
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "leeon.mobile.BBSBrowser"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dependencies {
+        compile 'org.apache.james:apache-mime4j:0.6.1'
+        compile 'org.apache.httpcomponents:httpmime:4.0.3'
+        compile 'org.ccil.cowan.tagsoup:tagsoup:1.2.1'
+        compile 'org.apache.httpcomponents:httpcore:4.1.4'
+        compile 'org.apache.httpcomponents:httpclient:4.0.3'
+        compile 'commons-logging:commons-logging:1.1'
+    }
+
+}

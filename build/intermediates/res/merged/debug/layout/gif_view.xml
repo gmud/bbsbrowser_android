@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:gif="http://schemas.android.com/apk/res/leeon.mobile.BBSBrowser"
+	android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical">
+
+	<!-- LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_horizontal">
+		<Button android:text="停止" android:id="@+id/Button01" android:gravity="left|top"
+			android:layout_width="wrap_content" android:layout_height="wrap_content" />
+		<Button android:text="开始" android:id="@+id/Button02" android:gravity="right|top"
+			android:layout_width="wrap_content" android:layout_height="wrap_content" />
+	</LinearLayout -->
+	
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:gravity="center">
+		<leeon.mobile.BBSBrowser.GIFView android:id="@+id/gifView1" gif:delay="1"
+			android:layout_height="wrap_content" android:layout_width="wrap_content" />
+	</LinearLayout>
+	
+</LinearLayout>
+

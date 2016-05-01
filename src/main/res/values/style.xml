@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+<style name="kaixinWindowTitleBackground">
+	<item name="android:background">@drawable/kaixin_title</item>
+</style>
+
+<style name="kaixinTitleBar" parent="android:Theme">
+	<item name="android:windowTitleSize">35dp</item>
+	<item name="android:windowTitleBackgroundStyle">@style/kaixinWindowTitleBackground</item>
+</style>
+
+<style name="sinaWindowTitleBackground">
+	<item name="android:background">@drawable/sinaweibo_title</item>
+</style>
+
+<style name="sinaTitleBar" parent="android:Theme">
+	<item name="android:windowTitleSize">40dp</item>
+	<item name="android:windowTitleBackgroundStyle">@style/sinaWindowTitleBackground</item>
+</style>
+
+</resources>

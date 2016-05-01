@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="check_mail_interval_string">
+        <item>1分钟</item>
+        <item>3分钟</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+    </string-array>
+    
+    <string-array name="check_mail_interval_int">
+    	<item>1</item>
+    	<item>3</item>
+    	<item>5</item>
+    	<item>10</item>
+    </string-array>
+    
+    <string-array name="cache_time_string">
+        <item>1天</item>
+        <item>3天</item>
+        <item>5天</item>
+        <item>一周</item>
+        <item>两周</item>
+    </string-array>
+    
+    <string-array name="cache_time_int">
+    	<item>1</item>
+    	<item>3</item>
+    	<item>5</item>
+    	<item>7</item>
+    	<item>14</item>
+    </string-array>
+    
+    <string-array name="image_zip_string">
+        <item>绝不使用压缩图片</item>
+        <item>在非wifi联网时使用压缩图片</item>
+        <item>一直使用压缩图片</item>
+    </string-array>
+    
+    <string-array name="image_zip_int">
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    </string-array>
+    
+</resources>

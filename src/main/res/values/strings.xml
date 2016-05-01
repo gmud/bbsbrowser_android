@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">日月光华BBS客户端</string>
+    <string name="welcome_label">欢迎光临日月光华BBS</string>
+    
+    <string name="app_about">
+      <b>Contact:</b>Mail to <a href="leeon@bbs.fudan.sh.cn">leeon@bbs.fudan.sh.cn</a>,Bazinga!
+    </string>
+    
+    <color name="app_background">#FFFFAA</color>
+    <color name="app_background_doc">#F0F8FF</color>
+
+    <color name="login_background">#FFFFEE</color>
+    <color name="login_text">#000000</color>
+        
+    <drawable name="content_title_background">#ADD8E6</drawable>
+    <drawable name="content_con_background">#F0F8FF</drawable>
+    <color name="content_title_text">#000080</color>
+    <color name="content_con_text">#000000</color>
+    
+    <drawable name="doc_title_background">#F0F8FF</drawable>    
+    <drawable name="doc_author_background">#ADD8E6</drawable>
+    <color name="doc_title_text">#000000</color>
+    <color name="doc_author_text">#000080</color>
+    
+    <drawable name="board_name_background">#FFFFAA</drawable>    
+    <drawable name="board_master_background">#FFFFDD</drawable>
+    <color name="board_name_text">#300000</color>
+    <color name="board_master_text">#000080</color>
+
+    <drawable name="welcome_background1">#FFFFAA</drawable>
+    <drawable name="welcome_background2">#FFFFDD</drawable>
+    <color name="welcome_text">#300000</color>    
+    <color name="welcome_text1">#000000</color>
+    
+    <color name="sina_weibo_tag1">#FF69B4</color>
+    <drawable name="sina_weibo_bg1">#FFFAFA</drawable>
+    <drawable name="sina_weibo_bg2">#FFF5F5</drawable>
+    
+    <color name="kaixin_tag1">#4682B4</color>
+    <drawable name="kaixin_bg1">#F5F5F5</drawable>
+    <drawable name="kaixin_bg2">#FFFFFF</drawable>
+    
+</resources>

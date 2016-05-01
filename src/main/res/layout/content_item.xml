@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="vertical">
+	
+	<LinearLayout android:id="@+id/conTitleBar" 
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@drawable/content_title_selector"
+		android:orientation="horizontal" android:layout_weight="1">
+		<TableLayout android:stretchColumns="1"  
+			android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<TableRow>
+			<TextView android:text="作 者:" android:textColor="@color/content_title_text" 
+				android:layout_width="50dp" android:layout_height="wrap_content"/>
+			<TextView android:id="@+id/conItemAuthor" android:layout_weight="1" android:textColor="@color/content_title_text" 
+				android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+		</TableRow>			
+		<TableRow>
+			<TextView android:text="标 题:" android:textColor="@color/content_title_text" 
+				android:layout_height="wrap_content" android:layout_width="50dp"/>
+			<TextView android:id="@+id/conItemTitle"  android:layout_weight="1" android:textColor="@color/content_title_text"  
+				android:layout_width="fill_parent" android:layout_height="wrap_content"/>		
+		</TableRow>
+		<TableRow>
+			<TextView android:text="日 期:" android:textColor="@color/content_title_text" 
+				android:layout_width="50dp" android:layout_height="wrap_content"/>
+			<TextView android:id="@+id/conItemDate" android:layout_weight="1"  android:textColor="@color/content_title_text" 
+				android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+		</TableRow>
+		</TableLayout>
+	</LinearLayout>
+	
+	<FrameLayout android:descendantFocusability="blocksDescendants"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@android:color/white" android:orientation="horizontal" android:layout_weight="1">
+		<!-- WebView android:id="@+id/conItemContent1" android:focusable="false" 
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/ -->
+		<TextView android:id="@+id/conItemContent" android:focusable="false" android:textColor="@android:color/black"
+			android:layout_width="fill_parent" android:layout_height="wrap_content" android:hapticFeedbackEnabled="false"
+			android:padding="5dp" android:paddingRight="5dp" android:textSize="15sp"/>
+	</FrameLayout>
+	
+	<LinearLayout android:id="@+id/conButtonBar1" android:descendantFocusability="blocksDescendants"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@drawable/content_con_selector" 
+		android:orientation="horizontal" android:layout_weight="1" android:visibility="gone">
+		<Button android:id="@+id/conTitleButton1" android:text="主题展开" android:layout_weight="1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+		<Button android:id="@+id/conTitleButton2" android:text="此处展开" android:layout_weight="1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/conButtonBar3" android:descendantFocusability="blocksDescendants"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@drawable/content_con_selector" 
+		android:orientation="horizontal" android:layout_weight="1" android:visibility="gone">
+		<Button android:id="@+id/conButton1" android:text="上篇" android:layout_weight="1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+		<Button android:id="@+id/conButton2" android:text="下篇" android:layout_weight="1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+		<Button android:id="@+id/conButton3" android:text="上楼" android:layout_weight="1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+		<Button android:id="@+id/conButton4" android:text="下楼" android:layout_weight="1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+		<Button android:id="@+id/conButton5" android:text="顶楼" android:layout_weight="1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+	</LinearLayout>
+	
+	<LinearLayout android:id="@+id/conButtonBar2" android:descendantFocusability="blocksDescendants"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@drawable/content_con_selector" 
+		android:orientation="horizontal" android:layout_weight="1" android:visibility="gone">
+		<Button android:id="@+id/titleButton1" android:text="获取更多该主题贴" android:layout_weight="1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+	</LinearLayout>
+</LinearLayout>
