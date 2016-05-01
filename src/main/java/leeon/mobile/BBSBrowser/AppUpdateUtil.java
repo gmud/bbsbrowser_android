@@ -36,7 +36,7 @@ public class AppUpdateUtil {
 	public static final String APP_UPDATE_VERSION_FILE_URL = APP_UPDATE_URL + APP_VERSION_FILE;
 		
 	//自动更新本地保存目录
-	public static String APP_LOCAL_URL =  Environment.getExternalStorageDirectory() + "/Downloads" + APP_NAME;
+	public static String APP_LOCAL_URL =  Environment.getExternalStorageDirectory() + "/Download" + APP_NAME;
 
 	//最新的app version 及 发布信息
 	//自动更新下载的app version 用于比较
